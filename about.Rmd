@@ -1,0 +1,21 @@
+---
+title: "About this site"
+description: |
+  Some additional details about the website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## About Me
+My name is **Samruddhi Naik**. I graduated from Lexington High School in Massachusetts and I'll be a freshman in college this coming fall. I like sports, cooking, music, robotics and computer science. 
+
+## About the Project
+*Median Wages by Gender and Occupation* visually shows how women are being paid less than their male counterpart. 
+
+### Goals
+* Show the gap on wages by gender
+*  
+

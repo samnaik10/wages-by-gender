@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\nAbout Me\r\nMy name is Samruddhi Naik. I graduated from\r\nLexington High School in Massachusetts and I’ll be a freshman in college\r\nthis coming fall. I like sports, cooking, music, robotics and computer\r\nscience.\r\nAbout the Project\r\nMedian Wages by Gender and Occupation visually shows how\r\nfemales are being paid significantly less than their male counterpart.\r\nMost of the time, these women are as qualified as the men, but still get\r\nless.\r\nGoals\r\nShow the gap on wages by gender\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-05T18:54:45-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Wages by Gender and Occupation",
+      "description": "This is where I will describe my final project.\n",
+      "author": [],
+      "contents": "\r\nOccupations with the Highest Salaries for Women and Men\r\n\r\n\r\n\r\nOccupations with the Highest Median Salary Gap\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-05T20:05:54-04:00"
+    }
+  ],
+  "collections": []
+}
