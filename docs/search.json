@@ -5,21 +5,21 @@
       "title": "About",
       "author": [],
       "contents": "\r\nAbout the Project\r\nMedian Wages by Gender and Occupation was made through Kane’s Free High School Data\r\nScience Bootcamp. This project visualizes how women are being paid\r\nless than their male counterparts.\r\nGoals\r\nIllustrate the gap on wages by gender\r\nHighlight inequality in the professional workforce\r\nGit Hub Repository\r\nLink: https://github.com/samnaik10/wages-by-gender\r\nAbout Me\r\nMy name is Samruddhi Naik. I’m a rising freshman at\r\nWPI in Massachusetts. I like sports, cooking, music, robotics and\r\ncomputer science.\r\nContact Information\r\nGit Hub: https://github.com/samnaik10\r\nEmail: samruddhian@yahoo.com\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-07T18:54:17-04:00"
+      "last_modified": "2022-07-07T19:24:56-04:00"
     },
     {
       "path": "index.html",
       "title": "Wages by Gender and Occupation",
       "author": [],
       "contents": "\r\nOccupations\r\nwith the Highest Salaries for Women and Men\r\n\r\n\r\n\r\nOccupations with the\r\nHighest Salary Gap\r\n\r\n\r\n\r\nSalary Gap\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-07T18:54:20-04:00"
+      "last_modified": "2022-07-07T19:24:59-04:00"
     },
     {
       "path": "sources.html",
       "title": "Sources",
       "author": [],
-      "contents": "\r\nEmployment and\r\nEarnings by Occupation\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-07T18:54:21-04:00"
+      "contents": "\r\nEmployment and\r\nEarnings by Occupation\r\nAll the plots were created using data from this website.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-07T19:31:56-04:00"
     }
   ],
   "collections": []

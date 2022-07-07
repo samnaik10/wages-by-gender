@@ -10,6 +10,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ### [Employment and Earnings by Occupation](https://www.dol.gov/agencies/wb/data/occupations#)
-
+All the plots were created using data from this website.
 
 
