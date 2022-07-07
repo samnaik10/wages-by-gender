@@ -21,7 +21,6 @@ women_graph2 <- tab2 |>
        x = "Occupation", y = "Gap in Salary",
        caption = "Source: U.S. DOL, Women's Bureau")
 
-
 men_graph2 <- tab2 |>
   mutate(gap = men_salary - women_salary) |>
   filter(gap >= 0) |>
