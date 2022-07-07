@@ -1,0 +1,15 @@
+---
+title: "Sources"
+description: |
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+### [Employment and Earnings by Occupation](https://www.dol.gov/agencies/wb/data/occupations#)
+
+
+

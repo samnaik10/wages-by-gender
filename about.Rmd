@@ -1,21 +1,27 @@
 ---
-title: "About this site"
+title: "About"
 description: |
-  Some additional details about the website
+  
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
-## About Me
-My name is **Samruddhi Naik**. I graduated from Lexington High School in Massachusetts and I'll be a freshman in college this coming fall. I like sports, cooking, music, robotics and computer science. 
-
 ## About the Project
-*Median Wages by Gender and Occupation* visually shows how women are being paid less than their male counterpart. 
+*Median Wages by Gender and Occupation* was made through [Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/). This project visualizes how women are being paid less than their male counterparts. 
 
 ### Goals
-* Show the gap on wages by gender
-*  
+* Illustrate the gap on wages by gender
+* Highlight inequality in the professional workforce
 
+### Git Hub Repository
+Link: https://github.com/samnaik10/wages-by-gender
+
+## About Me
+My name is **Samruddhi Naik**. I'm a rising freshman at WPI in Massachusetts. I like sports, cooking, music, robotics and computer science. 
+
+### Contact Information
+Git Hub: https://github.com/samnaik10 
+
+Email: samruddhian@yahoo.com
